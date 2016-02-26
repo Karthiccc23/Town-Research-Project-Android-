@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Town</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_activity_newpage">Newpage</string>
+    <string name="title_activity_peekpage">Peekpage</string>
+
+</resources>
